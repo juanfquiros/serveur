@@ -1,7 +1,7 @@
 # Serveur
 
 Dans cet exercice l’objectif est de reprendre une mise en place d’un blog et rajouter quelques fonctionnalités pour le rendre fonctionnel.
-Plus spécifiquement on va devoir créer : 
+Plus spécifiquement on va devoir créer :  
 -	Un serveur avec Express
 -	Un routage statique
 -	Un routage paramétré
